@@ -45,7 +45,7 @@ export default {
 </script>
 
 <template>
-  <h2>{{$t('drinkware')}}</h2>
+  <h2>{{$t('accessories')}}</h2>
   <div>
     <product-list :products="products"/>
   </div>

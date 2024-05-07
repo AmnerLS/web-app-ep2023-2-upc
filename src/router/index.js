@@ -9,7 +9,7 @@ const router = createRouter({
         { path:'/home', component: HomeComponent, meta:{ title: 'Home' } },
         { path:'/store/collections/all-drinkware',component: DrinkwareComponent, meta:{ title: 'Drinkware' }},
         { path:'/store/collections/accessories', component: AccessoriesComponent, meta:{ title: 'Accessories' }},
-        { path: "/", redirect: "/home"}
+        { path: "/", redirect: "home"}
     ]
 });
 
