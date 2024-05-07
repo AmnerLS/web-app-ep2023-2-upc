@@ -4,5 +4,11 @@
     "content": "Ember’s patented technology allows you to experience precision temperature control in your everyday life, with the vision to transform how the world eats, drinks, and lives, empowering you to experience your world without limits"
   },
   "drinkware": "Drinkware",
-  "accessories": "Accessories"
+  "accessories": "Accessories",
+  "page-not-found": {
+    "title": "Page not found",
+    "content-1": "Sorry, the route",
+    "content-2": "it was not found.",
+    "button-text": "Return to Home"
+  }
 }

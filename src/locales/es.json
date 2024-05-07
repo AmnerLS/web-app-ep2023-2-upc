@@ -4,5 +4,11 @@
     "content": "La tecnología patentada de Ember le permite experimentar un control preciso de la temperatura en su vida diaria, con la visión de transformar la forma en que el mundo come, bebe y vive, permitiéndole experimentar su mundo sin límites."
   },
   "drinkware": "Vasos",
-  "accessories": "Accesorios"
+  "accessories": "Accesorios",
+  "page-not-found": {
+    "title": "Página no encontrada",
+    "content-1": "Lo sentimos, la ruta",
+    "content-2": "no se encontró.",
+    "button-text": "Retornar a Home"
+  }
 }
