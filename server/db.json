@@ -1,0 +1,104 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Product 1",
+      "description": "Description for Product 1",
+      "photoUrl": "http://example.com/product1.jpg",
+      "price": 100,
+      "collectionId": 1,
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "title": "Product 2",
+      "description": "Description for Product 2",
+      "photoUrl": "http://example.com/product2.jpg",
+      "price": 200,
+      "collectionId": 2,
+      "rating": 4.0
+    },
+    {
+      "id": 3,
+      "title": "Product 3",
+      "description": "Description for Product 3",
+      "photoUrl": "http://example.com/product3.jpg",
+      "price": 300,
+      "collectionId": 1,
+      "rating": 3.5
+    },
+    {
+      "id": 4,
+      "title": "Product 4",
+      "description": "Description for Product 4",
+      "photoUrl": "http://example.com/product4.jpg",
+      "price": 400,
+      "collectionId": 1,
+      "rating": 3.0
+    },
+    {
+      "id": 5,
+      "title": "Product 5",
+      "description": "Description for Product 5",
+      "photoUrl": "http://example.com/product5.jpg",
+      "price": 500,
+      "collectionId": 2,
+      "rating": 2.5
+    },
+    {
+      "id": 6,
+      "title": "Product 6",
+      "description": "Description for Product 6",
+      "photoUrl": "http://example.com/product6.jpg",
+      "price": 600,
+      "collectionId": 2,
+      "rating": 2.0
+    },
+    {
+      "id": 7,
+      "title": "Product 7",
+      "description": "Description for Product 7",
+      "photoUrl": "http://example.com/product7.jpg",
+      "price": 700,
+      "collectionId": 1,
+      "rating": 1.5
+    },
+    {
+      "id": 8,
+      "title": "Product 8",
+      "description": "Description for Product 8",
+      "photoUrl": "http://example.com/product8.jpg",
+      "price": 800,
+      "collectionId": 2,
+      "rating": 1.0
+    },
+    {
+      "id": 9,
+      "title": "Product 9",
+      "description": "Description for Product 9",
+      "photoUrl": "http://example.com/product9.jpg",
+      "price": 900,
+      "collectionId": 1,
+      "rating": 0.5
+    },
+    {
+      "id": 10,
+      "title": "Product 10",
+      "description": "Description for Product 10",
+      "photoUrl": "http://example.com/product10.jpg",
+      "price": 1000,
+      "collectionId": 1,
+      "rating": 0.0
+    }
+  ],
+  "collections": [
+    {
+      "id": 1,
+      "title": "Collection 1"
+    },
+    {
+      "id": 2,
+      "title": "Collection 2"
+    }
+  ]
+}
