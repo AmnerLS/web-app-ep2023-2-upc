@@ -24,6 +24,7 @@ import SelectButton from "primevue/selectbutton";
 import Rating from "primevue/rating";
 import Splitter from "primevue/splitter";
 import SplitterPanel from "primevue/splitterpanel";
+import Avatar from "primevue/avatar";
 
 
 createApp(App)
@@ -38,4 +39,5 @@ createApp(App)
     .component('pv-rating',Rating)
     .component('pv-splitter',Splitter)
     .component('pv-splitter-panel',SplitterPanel)
+    .component('pv-avatar',Avatar)
     .mount('#app')

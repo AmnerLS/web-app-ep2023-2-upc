@@ -1,6 +1,9 @@
 <script>
+import LanguageSwitcher from "./public/components/language-switcher.component.vue";
+
 export default {
   name: "app",
+  components: {LanguageSwitcher},
   title: "Ember Technologies, inc.",
 
   data() {
@@ -33,10 +36,10 @@ export default {
               {{ item.label }}
             </pv-button>
           </router-link>
+          <language-switcher/>
         </div>
       </pv-sidebar>
       <pv-button icon="pi pi-bars" @click="visible = true"/>
-
     </div>
   </header>
   <router-view></router-view>
